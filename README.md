@@ -197,8 +197,8 @@ This is a completed analysis for the Blockhouse Work Trial Task. The modular des
 
 ## 📄 Documentation
 
-- **[Jupyter Notebook](Blockhouse_Impact_Analysis.ipynb)**: Complete interactive analysis
-- **[Formal Report](Blockhouse_Analysis_Report.md)**: Academic-style 2-page summary
+- **[Jupyter Notebook](https://github.com/Shine-5705/Blockhouse-Work-Trial-Task/blob/main/Blockhouse_Impact_Analysis.ipynb)**: Complete interactive analysis
+- **[Formal Report](https://github.com/Shine-5705/Blockhouse-Work-Trial-Task/blob/main/Formal_Analysis_Document.md)**: Academic-style 2-page summary
 - **Code Documentation**: Comprehensive inline comments and docstrings
 
 ## 🏆 Results Summary
@@ -214,7 +214,7 @@ This analysis provides:
 ## 📞 Contact
 
 **Repository**: [Blockhouse-Work-Trial-Task](https://github.com/Shine-5705/Blockhouse-Work-Trial-Task)  
-**Author**: Shine-5705  
+**Author**: Shine Gupta
 
 ---
 
